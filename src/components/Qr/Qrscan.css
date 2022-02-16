@@ -1,0 +1,24 @@
+body{
+    background-color: hsl(212, 45%, 89%);
+   
+}
+.container{
+    /* width: 70%;
+    height: 70%; */
+    background-color: hsl(0, 0%, 100%);
+    margin-top: 20px;
+    margin-bottom: 50px;
+    margin-right: 440px;
+    margin-left: 440px;
+    padding: 20px;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+img{
+    border-radius: 30px;
+     width: 300px;
+    height: 300px; 
+}

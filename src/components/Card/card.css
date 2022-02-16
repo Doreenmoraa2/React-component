@@ -1,0 +1,38 @@
+/* body {
+     background-color:  hsl(217, 54%, 11%); 
+} */
+.box img{
+    width: 30px;
+    height: 30px;
+}
+.last{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.content{
+    background-color: hsl(216, 50%, 16%);
+    padding: 20px;
+    margin-top: 20px;
+    margin-bottom: 50px;
+    margin-right: 440px;
+    margin-left: 440px;
+    display: flex;
+    flex-direction: column;
+    border-radius:20px;
+}
+.last{
+    gap:12px;
+    display: flex;
+    
+}
+.image{
+    width:350%;
+    height: 320%; 
+    
+    /* margin-right: 20px;
+    border-radius: 50px; */
+}
+span{
+    color: hsl(0, 0%, 100%)
+}
